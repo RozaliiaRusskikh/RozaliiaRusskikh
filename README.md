@@ -47,8 +47,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mantinedev/mantine/master/assets/mantine-logo.png" alt="mantine" width="40" height="40"/>
+ <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/mantinedev/mantine/master/assets/mantine-logo.png" alt="mantine" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
   <a href="https://www.sanity.io/" target="_blank" rel="noreferrer">
     <img src="https://www.sanity.io/static/images/logo.svg" alt="sanity" width="40" height="40"/>
