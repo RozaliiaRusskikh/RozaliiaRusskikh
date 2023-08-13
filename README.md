@@ -48,10 +48,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/62893750?s=200&v=4" alt="mantine" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mantinedev/mantine/master/assets/mantine-logo.png" alt="mantine" width="40" height="40"/>
   </a>
   <a href="https://www.sanity.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/25594541?s=200&v=4" alt="sanity" width="40" height="40"/>
+    <img src="https://www.sanity.io/static/images/logo.svg" alt="sanity" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
