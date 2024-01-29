@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Roza</h1>
 <h3 align="center">A curious web developer with a consuming passion for quality</h3>
 
-- 👨‍💻 About me: **I am an attentive to detail go-getter with a background in Software Testing. I love learning new things and don't shy away from big challenges.**
+- 👨‍💻 About me: **I am an attentive to detail Software Engineer with a background in Software Testing. I love learning new things and don't shy away from big challenges.**
+  My qualifications:
+* 3+ years experience with JavaScript/TypeScript and supporting libraries (ES6, React, Node, Next)
+* Experience performing platform integrations using REST
+* A background in working with GIT in a collaborative team setting
+* Familiarity writing cross-browser compliant HTML & Sass/CSS
+* Familiarity working with UX and Visual Designers
+* Familiarity with server technologies. (NPM, Express/Node, EJS)
+* A love for working collaboratively on a team with varied strengths
+* Experience working with cloud platforms like AWS
+
 
 - 📫 How to reach me: **rrrusskikh@gmail.com**
 - ⚡ Portfolio: **https://rozaliiarusskikh.github.io/my-profile/**
