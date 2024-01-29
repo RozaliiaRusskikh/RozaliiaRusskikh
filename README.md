@@ -2,7 +2,9 @@
 <h3 align="center">A curious web developer with a consuming passion for quality</h3>
 
 👨‍💻 About me: **I am an attentive to detail Software Engineer with a background in QA. I love learning new things and don't shy away from big challenges.**
-  My qualifications:
+
+My qualifications:
+
 * 3+ years experience with JavaScript/TypeScript and supporting libraries (ES6, React, Node, Next)
 * Experience performing platform integrations using REST
 * A background in working with GIT in a collaborative team setting
