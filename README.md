@@ -1,4 +1,5 @@
-<h1 align="center">Hello 🌍, I'm Roza</h1>
+<h1 align="center">Hello 🌍!</h1>
+<h2 align="center">I'm Roza</h2>
 <h3 align="center">A curious web developer with a consuming passion for quality</h3>
 
 👨‍💻 About me: **I am an attentive to detail Software Engineer with a background in QA. I love learning new things and don't shy away from big challenges.**
