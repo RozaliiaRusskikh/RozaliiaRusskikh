@@ -1,10 +1,10 @@
-<h1 align="center">Hello, 🌍! <br> I'm Roza!</h1>
+<h1 align="center">Hello, humans! 👋! <br> I'm Roza!</h1>
 <h3 align="center">A curious web developer with a consuming passion for quality</h3>
 
 👨‍💻 About me: **Full-stack software engineer with 4+ years of experience in web development, recently focused on building AI-powered systems and agentic workflows in production.**
 
 My qualifications:
-* 3+ years experience with JavaScript/TypeScript and supporting libraries (ES6, React, Node, Next)
+* 4+ years experience with JavaScript/TypeScript and supporting libraries (ES6, React, Node, Next)
 * Experience performing platform integrations using REST
 * A background in working with GIT in a collaborative team setting
 * Familiarity writing cross-browser compliant HTML & Sass/CSS
