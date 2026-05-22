@@ -1,7 +1,7 @@
 <h1 align="center">Hello, 🌍! <br> I'm Roza!</h1>
 <h3 align="center">A curious web developer with a consuming passion for quality</h3>
 
-👨‍💻 About me: **I am an attentive to detail Software Engineer with a background in QA. I love learning new things and don't shy away from big challenges.**
+👨‍💻 About me: **Full-stack software engineer with 4+ years of experience in web development, recently focused on building AI-powered systems and agentic workflows in production.**
 
 My qualifications:
 * 3+ years experience with JavaScript/TypeScript and supporting libraries (ES6, React, Node, Next)
